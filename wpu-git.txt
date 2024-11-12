@@ -2,3 +2,5 @@ wpu git
 - list 1
 - list 2
 - list 3
+- tambahan 1
+- tambahan 2
