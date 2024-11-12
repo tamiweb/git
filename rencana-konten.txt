@@ -10,3 +10,4 @@ rencana konten
 - rencana tim 1 - 1
 - rencana tim 1 - 2
 - tim 1 tambah lagi
+- rencana main
