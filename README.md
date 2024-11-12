@@ -11,6 +11,7 @@ Pembuat git itu adalah pembuat linux, lihat di wikipedia.
 - branch: cabang commit
 - merge: gabung commit
 - remote: sumber yang memiliki repo
-- clone: ambil repo
+- fork: ambil repo untuk lokal
+- clone: ambil repo untuk akun repo lain
 - push: kirim commit ke repo
 - pull: ambil commit dari repo
